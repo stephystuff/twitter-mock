@@ -1,0 +1,11 @@
+header{
+  height: $headerHeight;
+  background-color: $headerBgColor;
+  h1{
+    margin: $headerHeadingMargin;
+    color: $headerHeadingColor;
+    font-size: $headerHeadingFontSize;
+    text-align: center;
+    padding-top: $headerHeadingPaddingTop;
+  }
+}
