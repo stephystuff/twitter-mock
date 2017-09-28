@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAS;EACP,MAAM,EAAE,CAAC;EACT,WAAW,EAAE,UAAU;;ACFzB,MAAM;EACJ,MAAM,ECDO,KAAK;EDElB,gBAAgB,ECDF,OAAO;EDErB,SAAE;IACA,MAAM,ECAY,CAAC;IDCnB,KAAK,ECHY,OAAO;IDIxB,SAAS,ECHW,KAAK;IDIzB,UAAU,EAAE,MAAM;IAClB,WAAW,ECHW,IAAI",
+"sources": ["../sass/main.scss","../sass/_header.scss","../sass/_variables.scss"],
+"names": [],
+"file": "style.css"
+}
