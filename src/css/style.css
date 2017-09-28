@@ -31,4 +31,23 @@ header {
   header button.login {
     margin-right: 50px; }
 
+nav {
+  background-color: #ffffff;
+  text-align: center;
+  width: 100%;
+  border-bottom: 1px solid #cecece; }
+  nav ul {
+    list-style-type: none; }
+  nav li {
+    border-left: 1px solid #cecece;
+    display: inline;
+    padding: 40px 40px 16px 40px;
+    font-weight: bold;
+    font-size: 1.1em; }
+  nav li:hover {
+    border-bottom: 3px solid #ff3165; }
+  nav #search {
+    color: #ff3165;
+    border-left: none; }
+
 /*# sourceMappingURL=style.css.map */
