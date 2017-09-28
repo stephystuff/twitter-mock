@@ -1,0 +1,26 @@
+nav{
+  background-color: #ffffff;
+  text-align: center;
+  width: 100%;
+  border-bottom: 1px solid #cecece;
+  // padding-bottom: 10px;
+  ul{
+    // margin: 0;
+    list-style-type: none;
+  }
+  li{
+    border-left: 1px solid #cecece;
+    display: inline;
+    padding: 40px 40px 16px 40px;
+    font-weight: bold;
+    font-size: 1.1em;
+  }
+  li:hover{
+    border-bottom: 3px solid #ff3165;
+  }
+  #search{
+    color: #ff3165;
+    border-left: none;
+  }
+
+}
